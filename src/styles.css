@@ -1,0 +1,13 @@
+.folder {
+  background-color: #7ebaee;
+  /* display: inline-block;
+  padding: 0.2rem; */
+  display: inline-block;
+}
+.file {
+  background-color: yellow;
+  display: inline-block;
+}
+input {
+  display: block;
+}
